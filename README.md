@@ -1,0 +1,2 @@
+# Email Spam Filter Application
+‘Email Spam Filter’ is a model that was built in Python and implemented to GUI using Python Tkinter. This model is intended to classify an email as either it is spam or ham. This model performs data preprocessing to ‘clean’ the data, extract the feature, perform classification using TF-IDF Vectorizer, and implement it to GUI using Python Tkinter. The explanation of the project can be accessed from this link https://nadyatyandra.notion.site/Email-Spam-Filter-Application-4cab0d3ef20549aab18e27ece1b68ad6.
